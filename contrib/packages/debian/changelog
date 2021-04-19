@@ -1,3 +1,9 @@
+avocado (87.0+g33ef22a9-1) buster; urgency=medium
+
+  * New version.
+
+ -- Baurzhan Ismagulov <ibr@radix50.net>  Mon, 19 Apr 2021 15:46:39 +0200
+
 avocado (85.0) buster; urgency=medium
 
   * Non-maintainer upload.
